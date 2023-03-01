@@ -1,0 +1,15 @@
+{
+  "name": "stringlength",
+  "version": "1.0.0",
+  "description": "文字列長の算出の確認",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.3"
+  },
+  "type": "module"
+}
